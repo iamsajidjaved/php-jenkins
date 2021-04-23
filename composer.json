@@ -1,0 +1,6 @@
+{
+    "name": "iamsajidjaved/php-jenkins",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

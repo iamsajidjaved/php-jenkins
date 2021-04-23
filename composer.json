@@ -1,6 +1,11 @@
 {
-    "name": "iamsajidjaved/php-jenkins",
-    "require": {
-        "phpunit/phpunit": "^9.5"
+  "name": "iamsajidjaved/php-jenkins",
+  "require": {
+    "phpunit/phpunit": "^9.5"
+  },
+  "autoload": {
+    "psr-0": {
+      "": "src/"
     }
+  }
 }
